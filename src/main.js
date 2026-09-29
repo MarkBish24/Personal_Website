@@ -1,5 +1,20 @@
-import { createApp } from 'vue'
-import './style.css'
-import App from './App.vue'
+import { createApp } from "vue";
+import App from "./App.vue";
+import router from "./router";
 
-createApp(App).mount('#app')
+// Vuetify setup
+import "vuetify/styles";
+import { createVuetify } from "vuetify";
+import "@mdi/font/css/materialdesignicons.css";
+
+const vuetify = createVuetify({
+  theme: {
+    defaultTheme: "dark",
+  },
+});
+
+const app = createApp(App);
+
+app.use(router);
+app.use(vuetify);
+app.mount("#app");

@@ -1,6 +1,7 @@
 <template>
   <v-app id="app">
     <v-main>
+      <NavBar />
       <router-view />
     </v-main>
   </v-app>
@@ -8,6 +9,7 @@
 
 <script setup>
 import { RouterView } from "vue-router";
+import NavBar from "./components/NavBar.vue";
 </script>
 
 <style>

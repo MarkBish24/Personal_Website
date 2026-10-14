@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid>
+  <v-container class="contact">
     <h1>Contact Me</h1>
 
     <form action="mailto:YOUR_EMAIL_ADDRESS" method="POST" enctype="text/plain">
@@ -24,6 +24,11 @@
 </template>
 
 <style scoped>
+.contact {
+  max-width: 60ch;
+  margin-inline: auto;
+}
+
 input,
 textarea,
 button {

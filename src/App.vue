@@ -2,7 +2,9 @@
   <v-app>
     <NavBar />
     <v-main>
-      <router-view />
+      <div class="page">
+        <router-view />
+      </div>
     </v-main>
   </v-app>
 </template>
@@ -19,5 +21,9 @@ import NavBar from "./components/NavBar.vue";
   -moz-osx-font-smoothing: grayscale;
 
   color: #2c3e50;
+}
+
+.page {
+  padding-inline: 2rem;
 }
 </style>

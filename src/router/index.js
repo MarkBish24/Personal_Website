@@ -8,11 +8,6 @@ const routes = [
     component: pages.HomePage,
   },
   {
-    path: "/about",
-    name: "About",
-    component: pages.AboutPage,
-  },
-  {
     path: "/contact",
     name: "Contact",
     component: pages.ContactPage,

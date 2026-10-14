@@ -1,10 +1,13 @@
 <template>
+  <h1>Projects</h1>
   <div>
-    <h1>Projects</h1>
     <div class="projects">
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -13,7 +16,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -22,7 +28,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -31,7 +40,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -40,7 +52,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -49,7 +64,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -58,7 +76,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -67,7 +88,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -76,7 +100,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -85,7 +112,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -94,7 +124,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem
@@ -103,7 +136,10 @@
       </article>
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
-        <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="" />
+        <img
+          src="https://vis-society.github.io/labs/2/images/empty.svg"
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
           voluptatem, eaque praesentium nisi commodi doloremque quidem

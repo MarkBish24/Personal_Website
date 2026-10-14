@@ -3,6 +3,7 @@ import AboutPage from "./AboutPage.vue";
 import ContactPage from "./ContactPage.vue";
 import PortfolioPage from "./PortfolioPage.vue";
 import ResumePage from "./ResumePage.vue";
+import ProjectsPage from "./ProjectsPage.vue";
 
 export const pages = {
   HomePage,
@@ -10,4 +11,5 @@ export const pages = {
   ContactPage,
   PortfolioPage,
   ResumePage,
+  ProjectsPage,
 };

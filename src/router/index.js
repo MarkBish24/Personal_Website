@@ -27,6 +27,11 @@ const routes = [
     name: "Resume",
     component: pages.ResumePage,
   },
+  {
+    path: "/projects",
+    name: "Projects",
+    component: pages.ProjectsPage,
+  },
 ];
 
 const router = createRouter({

@@ -1,7 +1,7 @@
 import { createRouter, createWebHashHistory } from "vue-router";
 import { pages } from "../pages/pages";
 
-const routes = [
+export const routes = [
   {
     path: "/",
     name: "Home",
